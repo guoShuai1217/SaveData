@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/002SaveData/SaveData.unity
+  isLoaded: 1
+  isActive: 1
